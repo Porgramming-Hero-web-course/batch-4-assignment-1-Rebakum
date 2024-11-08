@@ -4,10 +4,12 @@ In TypeScript, we often deal with various types to handle the flexibility and st
 
 ## Table of Contents
  Introduction to Union and Intersection Types
- Method 1: Applying Conditional Types Distributively
- Method 2: Using Literal Types in Conditional  Template
 
- Conclusion
+ ### Method 1: Applying Conditional Types Distributively
+
+ ### Method 2: Using Literal Types in Conditional  Template
+
+ ### Conclusion
 ## What is a Union Type in TypeScript?
 In TypeScript, a Union Type allows a variable to hold multiple types, providing flexibility. A union type is defined using the pipe (|) operator.
 
